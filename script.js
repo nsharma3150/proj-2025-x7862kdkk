@@ -5,12 +5,12 @@ const quotes = {
   1: "Today we celebrate the amazing soul that lights up every room she enters.",
   2: "The world is infinitely more beautiful with you in it.",
   3: "Your laughter is the melody that makes life worth dancing to.",
-  4: "Every moment with you is a treasure we hold forever.",
-  5: "You have a special way of making your opinions crystal clear – one finger at a time! 😂",
+  4: "That night we danced until the lights came on – a perfect memory frozen in time.",
+  5: "The classic 'don't blame me, he's the one doing it!' moment – always the diplomat! 😂",
   6: "Absolutely stunning, inside and out – you're turning heads and warming hearts.",
-  7: "You inspire us to be better, to love deeper, to live fuller.",
+  7: "Berlin brought you together with beautiful souls – four smiles that tell a story of true friendship.",
   8: "That look says it all – always ten steps ahead and twice as clever!",
-  9: "Your presence is a gift that keeps on giving, today and always.",
+  9: "Pure joy captured – the way you light up holding that precious little one says everything about your beautiful heart.",
   10: "Here's to you, Diva – may your year ahead be as wonderful as you are! 🎉✨"
 };
 
